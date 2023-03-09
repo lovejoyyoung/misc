@@ -1,10 +1,10 @@
 #!/bin/zsh
 
-echo "HI"
+echo "HI ZSH FROM MAC"
 
 sleep 3
 
-echo "I am robot"
+echo "HELLO"
 
 sleep 3
 
