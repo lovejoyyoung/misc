@@ -37,3 +37,10 @@
         w = write
         x = execute
         - = no access
+
+
+# set var
+        
+        export myname = "macuser"
+        echo $myname
+        
