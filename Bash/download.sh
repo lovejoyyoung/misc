@@ -1,7 +1,9 @@
 #!bin/zsh
+echo -e "\nHi, Which one you are gonna download?"
+read build
 
 headers="-H X-JFrog-Art-Api:YOUR_API_TOKEN"
-build="BUILD_NAME"
+#build="BUILD_NAME"
 hidden="DOWNLOAD_LINK"
 
 urls=(
